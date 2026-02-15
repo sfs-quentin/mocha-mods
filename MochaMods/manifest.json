@@ -1,7 +1,7 @@
 {
     "Name": "Mocha Mods",
     "Author": "Arasaka Enterprise",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Description": "Arasaka and hypergirl's Stardew Valley Mods Folder.",
     "UniqueId": "Arasaka.MochaMods",
     "EntryDll": "ConsoleCommands.dll",
