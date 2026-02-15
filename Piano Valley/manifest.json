@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Piano Valley for CP",
+  "Author": "luxiferxx",
+  "Version": "3.0.0",
+  "Description": "Replaces in-game music with piano covers! Converted to use Content Patcher.",
+  "MinimumApiVersion": "4.0.0",
+  "UniqueID": "luxiferxx.pianovalley",
+  "UpdateKeys": [ "Nexus:7103" ],
+  "ContentPackFor": {"UniqueID": "Pathoschild.ContentPatcher"}
+  }

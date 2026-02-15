@@ -1,0 +1,624 @@
+{
+    "Format": "2.1.2",
+        "Changes": [
+            {
+      "Action": "EditData",
+      "Target": "Data/Furniture",
+      "Entries": {
+        "{{ModId}}_Lake_at_night_1": "Lake at night 1/painting/2 2/2 2/1/0/-1/{{i18n: Lake_at_night.DisplayName}}/0/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Lake_at_night_2": "Lake at night 2/painting/2 2/2 2/1/0/-1/{{i18n: Lake_at_night.DisplayName}}/2/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Lake_at_night_3": "Lake at night 3/painting/2 2/2 2/1/0/-1/{{i18n: Lake_at_night.DisplayName}}/4/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Lake_at_night_4": "Lake at night 4/painting/2 2/2 2/1/0/-1/{{i18n: Lake_at_night.DisplayName}}/6/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Teddy_bear_1": "Teddy Bear 1/painting/2 2/2 2/1/0/-1/{{i18n: Teddy_bear.DisplayName}}/8/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Teddy_bear_2": "Teddy Bear 2/painting/2 2/2 2/1/0/-1/{{i18n: Teddy_bear.DisplayName}}/10/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Forest_1": "Forest 1/painting/3 2/3 2/1/0/-1/{{i18n: Forest.DisplayName}}/12/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Forest_2": "Forest 2/painting/3 2/3 2/1/0/-1/{{i18n: Forest.DisplayName}}/15/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Forest_3": "Forest 3/painting/3 2/3 2/1/0/-1/{{i18n: Forest.DisplayName}}/18/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Forest_4": "Forest 4/painting/3 2/3 2/1/0/-1/{{i18n: Forest.DisplayName}}/21/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Fox_1": "Fox 1/painting/2 2/2 2/1/0/-1/{{i18n: Fox.DisplayName}}/48/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Fox_2": "Fox 2/painting/2 2/2 2/1/0/-1/{{i18n: Fox.DisplayName}}/50/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Fox_3": "Fox 4/painting/2 2/2 2/1/0/-1/{{i18n: Fox.DisplayName}}/52/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Fox_4": "Fox 4/painting/2 2/2 2/1/0/-1/{{i18n: Fox.DisplayName}}/54/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Bear_1": "Bear 1/painting/2 2/2 2/1/0/-1/{{i18n: Bear.DisplayName}}/56/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Bear_2": "Bear 2/painting/2 2/2 2/1/0/-1/{{i18n: Bear.DisplayName}}/58/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Lake_1": "Lake 1/painting/2 2/2 2/1/0/-1/{{i18n: Lake.DisplayName}}/60/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Lake_2": "Lake 2/painting/2 2/2 2/1/0/-1/{{i18n: Lake.DisplayName}}/62/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Raspberry_1": "Raspberry 1/painting/2 2/2 2/1/0/-1/{{i18n: Raspberry.DisplayName}}/64/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Raspberry_2": "Raspberry 2/painting/2 2/2 2/1/0/-1/{{i18n: Raspberry.DisplayName}}/66/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Apple_1": "Apple 1/painting/2 2/2 2/1/0/-1/{{i18n: Apple.DisplayName}}/68/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Apple_2": "Apple 2/painting/2 2/2 2/1/0/-1/{{i18n: Apple.DisplayName}}/70/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_River_1": "River 1/painting/2 2/2 2/1/0/-1/{{i18n: River.DisplayName}}/96/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_River_2": "River 2/painting/2 2/2 2/1/0/-1/{{i18n: River.DisplayName}}/98/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Sunflower_1": "Sunflower 1/painting/2 2/2 2/1/0/-1/{{i18n: Sunflower.DisplayName}}/100/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Sunflower_2": "Sunflower 2/painting/2 2/2 2/1/0/-1/{{i18n: Sunflower.DisplayName}}/102/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Midnight_1": "Midnight 1/painting/2 2/2 2/1/0/-1/{{i18n: Midnight.DisplayName}}/104/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Midnight_2": "Midnight 2/painting/2 2/2 2/1/0/-1/{{i18n: Midnight.DisplayName}}/106/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_House_1": "House 1/painting/2 2/2 2/1/0/-1/{{i18n: House.DisplayName}}/108/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_House_2": "House 2/painting/2 2/2 2/1/0/-1/{{i18n: House.DisplayName}}/110/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Moon_1": "Moon 1/painting/2 2/2 2/1/0/-1/{{i18n: Moon.DisplayName}}/112/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Moon_2": "Moon 2/painting/2 2/2 2/1/0/-1/{{i18n: Moon.DisplayName}}/114/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Hedgehog_with_apple_1": "Hedgehog with apple 1/painting/2 2/2 2/1/0/-1/{{i18n: Hedgehog_with_apple.DisplayName}}/116/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Hedgehog_with_apple_2": "Hedgehog with apple 2/painting/2 2/2 2/1/0/-1/{{i18n: Hedgehog_with_apple.DisplayName}}/118/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Lake_3": "Lake 3/painting/3 3/3 3/1/0/-1/{{i18n: Lake.DisplayName}}/165/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Lake_4": "Lake 4/painting/3 3/3 3/1/0/-1/{{i18n: Lake.DisplayName}}/162/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_House_3": "House 3/painting/3 3/3 3/1/0/-1/{{i18n: House.DisplayName}}/159/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_House_4": "House 4/painting/3 3/3 3/1/0/-1/{{i18n: House.DisplayName}}/156/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Lake_5": "Lake 5/painting/3 3/3 3/1/0/-1/{{i18n: Lake.DisplayName}}/153/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Lake_6": "Lake 6/painting/3 3/3 3/1/0/-1/{{i18n: Lake.DisplayName}}/150/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Tree_1": "Tree 1/painting/2 2/2 2/1/0/-1/{{i18n: Tree.DisplayName}}/224/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Tree_2": "Tree 2/painting/2 2/2 2/1/0/-1/{{i18n: Tree.DisplayName}}/226/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Tree_3": "Tree 3/painting/2 2/2 2/1/0/-1/{{i18n: Tree.DisplayName}}/236/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Tree_4": "Tree 4/painting/2 2/2 2/1/0/-1/{{i18n: Tree.DisplayName}}/238/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Fox_7": "Fox 7/painting/2 2/2 2/1/0/-1/{{i18n: Fox.DisplayName}}/228/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Fox_8": "Fox 8/painting/2 2/2 2/1/0/-1/{{i18n: Fox.DisplayName}}/230/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Fox_5": "Fox 5/painting/2 2/2 2/1/0/-1/{{i18n: Fox.DisplayName}}/232/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Fox_6": "Fox 6/painting/2 2/2 2/1/0/-1/{{i18n: Fox.DisplayName}}/234/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Foggy_Forest_1": "Foggy Forest 1/painting/2 2/2 2/1/0/-1/{{i18n: Foggy_Forest.DisplayName}}/264/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Foggy_Forest_2": "Foggy Forest 2/painting/2 2/2 2/1/0/-1/{{i18n: Foggy_Forest.DisplayName}}/266/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Foggy_Forest_3": "Foggy Forest 3/painting/3 2/3 2/1/0/-1/{{i18n: Foggy_Forest.DisplayName}}/268/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Foggy_Forest_4": "Foggy Forest 4/painting/3 2/3 2/1/0/-1/{{i18n: Foggy_Forest.DisplayName}}/271/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Forest_5": "Forest 1/painting/3 2/3 2/1/0/-1/{{i18n: Forest.DisplayName}}/274/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Forest_6": "Forest 2/painting/3 2/3 2/1/0/-1/{{i18n: Forest.DisplayName}}/277/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Tea_1": "Tea 1/painting/2 2/2 2/1/0/-1/{{i18n: Tea.DisplayName}}/280/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Tea_2": "Tea 2/painting/2 2/2 2/1/0/-1/{{i18n: Tea.DisplayName}}/282/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Tea_3": "Tea 3/painting/2 2/2 2/1/0/-1/{{i18n: Tea.DisplayName}}/284/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Tea_4": "Tea 4/painting/2 2/2 2/1/0/-1/{{i18n: Tea.DisplayName}}/286/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Tea_5": "Tea 5/painting/3 3/3 3/1/0/-1/{{i18n: Tea.DisplayName}}/456/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Tea_6": "Tea 6/painting/3 3/3 3/1/0/-1/{{i18n: Tea.DisplayName}}/459/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Halloween_Decorations_1": "Halloween Decorations 1/painting/3 3/3 3/1/0/-1/{{i18n: Halloween_Decorations.DisplayName}}/312/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Halloween_Decorations_2": "Halloween Decorations 2/painting/3 3/3 3/1/0/-1/{{i18n: Halloween_Decorations.DisplayName}}/315/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Halloween_Decorations_3": "Halloween Decorations 3/painting/3 3/3 3/1/0/-1/{{i18n: Halloween_Decorations.DisplayName}}/318/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Halloween_Decorations_4": "Halloween Decorations 4/painting/3 3/3 3/1/0/-1/{{i18n: Halloween_Decorations.DisplayName}}/321/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Halloween_Decorations_5": "Halloween Decorations 5/painting/3 3/3 3/1/0/-1/{{i18n: Halloween_Decorations.DisplayName}}/324/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Halloween_Decorations_6": "Halloween Decorations 6/painting/3 3/3 3/1/0/-1/{{i18n: Halloween_Decorations.DisplayName}}/327/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Mushroom_1": "Mushroom 1/painting/3 3/3 3/1/0/-1/{{i18n: Mushroom.DisplayName}}/330/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Mushroom_2": "Mushroom 2/painting/3 3/3 3/1/0/-1/{{i18n: Mushroom.DisplayName}}/333/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Mushroom_3": "Mushroom 3/painting/3 3/3 3/1/0/-1/{{i18n: Mushroom.DisplayName}}/384/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Mushroom_4": "Mushroom 4/painting/3 3/3 3/1/0/-1/{{i18n: Mushroom.DisplayName}}/387/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Mushroom_5": "Mushroom 5/painting/3 3/3 3/1/0/-1/{{i18n: Mushroom.DisplayName}}/390/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Mushroom_6": "Mushroom 6/painting/3 3/3 3/1/0/-1/{{i18n: Mushroom.DisplayName}}/393/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Leprechaun_1": "Leprechaun 1/painting/3 3/3 3/1/0/-1/{{i18n: Leprechaun.DisplayName}}/396/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Leprechaun_2": "Leprechaun 2/painting/3 3/3 3/1/0/-1/{{i18n: Leprechaun.DisplayName}}/399/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Leprechaun_3": "Leprechaun 3/painting/3 3/3 3/1/0/-1/{{i18n: LeprechaunZ.DisplayName}}/402/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Leprechaun_4": "Leprechaun 4/painting/3 3/3 3/1/0/-1/{{i18n: LeprechaunZ.DisplayName}}/405/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Ghost_1": "Ghost 1/painting/3 3/3 3/1/0/-1/{{i18n: Ghost.DisplayName}}/462/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Ghost_2": "Ghost 2/painting/3 3/3 3/1/0/-1/{{i18n: Ghost.DisplayName}}/465/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Ghost_3": "Ghost 3/painting/3 3/3 3/1/0/-1/{{i18n: Ghost.DisplayName}}/468/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Ghost_4": "Ghost 4/painting/3 3/3 3/1/0/-1/{{i18n: Ghost.DisplayName}}/471/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Ghost_5": "Ghost 5/painting/3 3/3 3/1/0/-1/{{i18n: Ghost.DisplayName}}/474/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Ghost_6": "Ghost 6/painting/3 3/3 3/1/0/-1/{{i18n: Ghost.DisplayName}}/477/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Small_Hedgehog_1": "Small Hedgehog 1/painting/1 2/1 2/1/0/-1/{{i18n: Small_Hedgehog.DisplayName}}/528/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Small_Hedgehog_2": "Small Hedgehog 2/painting/1 2/1 2/1/0/-1/{{i18n: Small_Hedgehog.DisplayName}}/529/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Small_Fox_1": "Small Fox 1/painting/1 2/1 2/1/0/-1/{{i18n: Small_Fox.DisplayName}}/530/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Small_Fox_2": "Small Fox 2/painting/1 2/1 2/1/0/-1/{{i18n: Small_Fox.DisplayName}}/531/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Small_Bear_1": "Small Bear 1/painting/1 2/1 2/1/0/-1/{{i18n: Small_Bear.DisplayName}}/532/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Small_Bear_2": "Small Bear 2/painting/1 2/1 2/1/0/-1/{{i18n: Small_Bear.DisplayName}}/533/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Small_Heart_1": "Small Heart 1/painting/1 2/1 2/1/0/-1/{{i18n: Small_Heart.DisplayName}}/534/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Small_Heart_2": "Small Heart 2/painting/1 2/1 2/1/0/-1/{{i18n: Small_Heart.DisplayName}}/535/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Small_Ghost_1": "Small Ghost 1/painting/1 2/1 2/1/0/-1/{{i18n: Small_Ghost.DisplayName}}/536/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Small_Ghost_2": "Small Ghost 2/painting/1 2/1 2/1/0/-1/{{i18n: Small_Ghost.DisplayName}}/537/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Small_Owl_1": "Small Owl 1/painting/1 2/1 2/1/0/-1/{{i18n: Small_Owl.DisplayName}}/538/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+        "{{ModId}}_Small_Owl_2": "Small Owl 2/painting/1 2/1 2/1/0/-1/{{i18n: Small_Owl.DisplayName}}/539/Mods\\{{ModId}}\\Paintings/false/Fall Paintings",
+      }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/BigCraftables",
+        "Entries": {
+            "{{ModId}}_Catalog": {
+                "Name": "{{ModId}}_Catalog",
+                "DisplayName": "{{i18n: WC.DisplayName}}",
+                "Description": "{{i18n: WC.Description}}",
+                "Texture": "Mods/{{ModId}}/Catalog",
+                "Price": 20000
+            }
+        }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/Shops",
+        "Entries": {
+            "Zexu2K.Fall_Paintings_by_Zexu2K_Shop": {
+                "PriceModifiers": null,
+                "PriceModifierMode": "Stack"
+            }
+        }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Data/Shops",
+        "TargetField": ["Carpenter", "Items"],
+        "Entries": {
+            "{{ModId}}_Catalog": {
+                "Id": "{{ModId}}_Catalog",
+                "ItemId": "{{ModId}}_Catalog",
+                "Price": "20000",
+                "IsRecipe": false,
+                "IgnoreShopPriceModifiers": true,
+            }
+        }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Shops",
+      "TargetField": ["Zexu2K.Fall_Paintings_by_Zexu2K_Shop", "Items"],
+      "Entries": {
+        "{{ModId}}_Lake_at_night_1": {
+          "Id": "{{ModId}}_Lake_at_night_1",
+          "ItemId": "{{ModId}}_Lake_at_night_1",
+          "Price": 0
+        },
+        "{{ModId}}_Lake_at_night_2": {
+          "Id": "{{ModId}}_Lake_at_night_2",
+          "ItemId": "{{ModId}}_Lake_at_night_2",
+          "Price": 0
+        },
+        "{{ModId}}_Lake_at_night_3": {
+          "Id": "{{ModId}}_Lake_at_night_3",
+          "ItemId": "{{ModId}}_Lake_at_night_3",
+          "Price": 0
+        },
+        "{{ModId}}_Lake_at_night_4": {
+          "Id": "{{ModId}}_Lake_at_night_4",
+          "ItemId": "{{ModId}}_Lake_at_night_4",
+          "Price": 0
+        },
+        "{{ModId}}_Teddy_bear_1": {
+          "Id": "{{ModId}}_Teddy_bear_1",
+          "ItemId": "{{ModId}}_Teddy_bear_1",
+          "Price": 0
+        },
+        "{{ModId}}_Teddy_bear_2": {
+          "Id": "{{ModId}}_Teddy_bear_2",
+          "ItemId": "{{ModId}}_Teddy_bear_2",
+          "Price": 0
+        },
+        "{{ModId}}_Forest_1": {
+          "Id": "{{ModId}}_Forest_1",
+          "ItemId": "{{ModId}}_Forest_1",
+          "Price": 0
+        },
+        "{{ModId}}_Forest_2": {
+          "Id": "{{ModId}}_Forest_2",
+          "ItemId": "{{ModId}}_Forest_2",
+          "Price": 0
+        },
+        "{{ModId}}_Forest_3": {
+          "Id": "{{ModId}}_Forest_3",
+          "ItemId": "{{ModId}}_Forest_3",
+          "Price": 0
+        },
+        "{{ModId}}_Forest_4": {
+          "Id": "{{ModId}}_Forest_4",
+          "ItemId": "{{ModId}}_Forest_4",
+          "Price": 0
+        },
+        "{{ModId}}_Forest_5": {
+          "Id": "{{ModId}}_Forest_5",
+          "ItemId": "{{ModId}}_Forest_5",
+          "Price": 0
+        },
+        "{{ModId}}_Forest_6": {
+          "Id": "{{ModId}}_Forest_6",
+          "ItemId": "{{ModId}}_Forest_6",
+          "Price": 0
+        },
+        "{{ModId}}_Fox_1": {
+          "Id": "{{ModId}}_Fox_1",
+          "ItemId": "{{ModId}}_Fox_1",
+          "Price": 0
+        },
+        "{{ModId}}_Fox_2": {
+          "Id": "{{ModId}}_Fox_2",
+          "ItemId": "{{ModId}}_Fox_2",
+          "Price": 0
+        },
+        "{{ModId}}_Fox_3": {
+          "Id": "{{ModId}}_Fox_3",
+          "ItemId": "{{ModId}}_Fox_3",
+          "Price": 0
+        },
+        "{{ModId}}_Fox_4": {
+          "Id": "{{ModId}}_Fox_4",
+          "ItemId": "{{ModId}}_Fox_4",
+          "Price": 0
+        },
+        "{{ModId}}_Fox_5": {
+          "Id": "{{ModId}}_Fox_5",
+          "ItemId": "{{ModId}}_Fox_5",
+          "Price": 0
+        },
+        "{{ModId}}_Fox_6": {
+          "Id": "{{ModId}}_Fox_6",
+          "ItemId": "{{ModId}}_Fox_6",
+          "Price": 0
+        },
+        "{{ModId}}_Fox_7": {
+          "Id": "{{ModId}}_Fox_7",
+          "ItemId": "{{ModId}}_Fox_7",
+          "Price": 0
+        },
+        "{{ModId}}_Fox_8": {
+          "Id": "{{ModId}}_Fox_8",
+          "ItemId": "{{ModId}}_Fox_8",
+          "Price": 0
+        },
+        "{{ModId}}_Bear_1": {
+          "Id": "{{ModId}}_Bear_1",
+          "ItemId": "{{ModId}}_Bear_1",
+          "Price": 0
+        },
+        "{{ModId}}_Bear_2": {
+          "Id": "{{ModId}}_Bear_2",
+          "ItemId": "{{ModId}}_Bear_2",
+          "Price": 0
+        },
+        "{{ModId}}_Lake_1": {
+          "Id": "{{ModId}}_Lake_1",
+          "ItemId": "{{ModId}}_Lake_1",
+          "Price": 0
+        },
+        "{{ModId}}_Lake_2": {
+          "Id": "{{ModId}}_Lake_2",
+          "ItemId": "{{ModId}}_Lake_2",
+          "Price": 0
+        },
+        "{{ModId}}_Lake_3": {
+          "Id": "{{ModId}}_Lake_3",
+          "ItemId": "{{ModId}}_Lake_3",
+          "Price": 0
+        },
+        "{{ModId}}_Lake_4": {
+          "Id": "{{ModId}}_Lake_4",
+          "ItemId": "{{ModId}}_Lake_4",
+          "Price": 0
+        },
+        "{{ModId}}_Lake_5": {
+          "Id": "{{ModId}}_Lake_5",
+          "ItemId": "{{ModId}}_Lake_5",
+          "Price": 0
+        },
+        "{{ModId}}_Lake_6": {
+          "Id": "{{ModId}}_Lake_6",
+          "ItemId": "{{ModId}}_Lake_6",
+          "Price": 0
+        },
+        "{{ModId}}_Raspberry_1": {
+          "Id": "{{ModId}}_Raspberry_1",
+          "ItemId": "{{ModId}}_Raspberry_1",
+          "Price": 0
+        },
+        "{{ModId}}_Raspberry_2": {
+          "Id": "{{ModId}}_Raspberry_2",
+          "ItemId": "{{ModId}}_Raspberry_2",
+          "Price": 0
+        },
+        "{{ModId}}_Apple_1": {
+          "Id": "{{ModId}}_Apple_1",
+          "ItemId": "{{ModId}}_Apple_1",
+          "Price": 0
+        },
+        "{{ModId}}_Apple_2": {
+          "Id": "{{ModId}}_Apple_2",
+          "ItemId": "{{ModId}}_Apple_2",
+          "Price": 0
+        },
+        "{{ModId}}_River_1": {
+          "Id": "{{ModId}}_River_1",
+          "ItemId": "{{ModId}}_River_1",
+          "Price": 0
+        },
+        "{{ModId}}_River_2": {
+          "Id": "{{ModId}}_River_2",
+          "ItemId": "{{ModId}}_River_2",
+          "Price": 0
+        },
+        "{{ModId}}_Sunflower_1": {
+          "Id": "{{ModId}}_Sunflower_1",
+          "ItemId": "{{ModId}}_Sunflower_1",
+          "Price": 0
+        },
+        "{{ModId}}_Sunflower_2": {
+          "Id": "{{ModId}}_Sunflower_2",
+          "ItemId": "{{ModId}}_Sunflower_2",
+          "Price": 0
+        },
+        "{{ModId}}_Midnight_1": {
+          "Id": "{{ModId}}_Midnight_1",
+          "ItemId": "{{ModId}}_Midnight_1",
+          "Price": 0
+        },
+        "{{ModId}}_Midnight_2": {
+          "Id": "{{ModId}}_Midnight_2",
+          "ItemId": "{{ModId}}_Midnight_2",
+          "Price": 0
+        },
+        "{{ModId}}_House_1": {
+          "Id": "{{ModId}}_House_1",
+          "ItemId": "{{ModId}}_House_1",
+          "Price": 0
+        },
+        "{{ModId}}_House_2": {
+          "Id": "{{ModId}}_House_2",
+          "ItemId": "{{ModId}}_House_2",
+          "Price": 0
+        },
+        "{{ModId}}_House_3": {
+          "Id": "{{ModId}}_House_3",
+          "ItemId": "{{ModId}}_House_3",
+          "Price": 0
+        },
+        "{{ModId}}_House_4": {
+          "Id": "{{ModId}}_House_4",
+          "ItemId": "{{ModId}}_House_4",
+          "Price": 0
+        },
+        "{{ModId}}_Moon_1": {
+          "Id": "{{ModId}}_Moon_1",
+          "ItemId": "{{ModId}}_Moon_1",
+          "Price": 0
+        },
+        "{{ModId}}_Moon_2": {
+          "Id": "{{ModId}}_Moon_2",
+          "ItemId": "{{ModId}}_Moon_2",
+          "Price": 0
+        },
+        "{{ModId}}_Hedgehog_with_apple_1": {
+          "Id": "{{ModId}}_Hedgehog_with_apple_1",
+          "ItemId": "{{ModId}}_Hedgehog_with_apple_1",
+          "Price": 0
+        },
+        "{{ModId}}_Hedgehog_with_apple_2": {
+          "Id": "{{ModId}}_Hedgehog_with_apple_2",
+          "ItemId": "{{ModId}}_Hedgehog_with_apple_2",
+          "Price": 0
+        },
+        "{{ModId}}_Tree_1": {
+          "Id": "{{ModId}}_Tree_1",
+          "ItemId": "{{ModId}}_Tree_1",
+          "Price": 0
+        },
+        "{{ModId}}_Tree_2": {
+          "Id": "{{ModId}}_Tree_2",
+          "ItemId": "{{ModId}}_Tree_2",
+          "Price": 0
+        },
+        "{{ModId}}_Tree_3": {
+          "Id": "{{ModId}}_Tree_3",
+          "ItemId": "{{ModId}}_Tree_3",
+          "Price": 0
+        },
+        "{{ModId}}_Tree_4": {
+          "Id": "{{ModId}}_Tree_4",
+          "ItemId": "{{ModId}}_Tree_4",
+          "Price": 0
+        },
+        "{{ModId}}_Foggy_Forest_1": {
+          "Id": "{{ModId}}_Foggy_Forest_1",
+          "ItemId": "{{ModId}}_Foggy_Forest_1",
+          "Price": 0
+        },
+        "{{ModId}}_Foggy_Forest_2": {
+          "Id": "{{ModId}}_Foggy_Forest_2",
+          "ItemId": "{{ModId}}_Foggy_Forest_2",
+          "Price": 0
+        },
+        "{{ModId}}_Foggy_Forest_3": {
+          "Id": "{{ModId}}_Foggy_Forest_3",
+          "ItemId": "{{ModId}}_Foggy_Forest_3",
+          "Price": 0
+        },
+        "{{ModId}}_Foggy_Forest_4": {
+          "Id": "{{ModId}}_Foggy_Forest_4",
+          "ItemId": "{{ModId}}_Foggy_Forest_4",
+          "Price": 0
+        },
+        "{{ModId}}_Tea_1": {
+          "Id": "{{ModId}}_Tea_1",
+          "ItemId": "{{ModId}}_Tea_1",
+          "Price": 0
+        },
+        "{{ModId}}_Tea_2": {
+          "Id": "{{ModId}}_Tea_2",
+          "ItemId": "{{ModId}}_Tea_2",
+          "Price": 0
+        },
+        "{{ModId}}_Tea_3": {
+          "Id": "{{ModId}}_Tea_3",
+          "ItemId": "{{ModId}}_Tea_3",
+          "Price": 0
+        },
+        "{{ModId}}_Tea_4": {
+          "Id": "{{ModId}}_Tea_4",
+          "ItemId": "{{ModId}}_Tea_4",
+          "Price": 0
+        },
+        "{{ModId}}_Tea_5": {
+          "Id": "{{ModId}}_Tea_5",
+          "ItemId": "{{ModId}}_Tea_5",
+          "Price": 0
+        },
+        "{{ModId}}_Tea_6": {
+          "Id": "{{ModId}}_Tea_6",
+          "ItemId": "{{ModId}}_Tea_6",
+          "Price": 0
+        },
+        "{{ModId}}_Halloween_Decorations_1": {
+          "Id": "{{ModId}}_Halloween_Decorations_1",
+          "ItemId": "{{ModId}}_Halloween_Decorations_1",
+          "Price": 0
+        },
+        "{{ModId}}_Halloween_Decorations_2": {
+          "Id": "{{ModId}}_Halloween_Decorations_2",
+          "ItemId": "{{ModId}}_Halloween_Decorations_2",
+          "Price": 0
+        },
+        "{{ModId}}_Halloween_Decorations_3": {
+          "Id": "{{ModId}}_Halloween_Decorations_3",
+          "ItemId": "{{ModId}}_Halloween_Decorations_3",
+          "Price": 0
+        },
+        "{{ModId}}_Halloween_Decorations_4": {
+          "Id": "{{ModId}}_Halloween_Decorations_4",
+          "ItemId": "{{ModId}}_Halloween_Decorations_4",
+          "Price": 0
+        },
+        "{{ModId}}_Halloween_Decorations_5": {
+          "Id": "{{ModId}}_Halloween_Decorations_5",
+          "ItemId": "{{ModId}}_Halloween_Decorations_5",
+          "Price": 0
+        },
+        "{{ModId}}_Halloween_Decorations_6": {
+          "Id": "{{ModId}}_Halloween_Decorations_6",
+          "ItemId": "{{ModId}}_Halloween_Decorations_6",
+          "Price": 0
+        },
+        "{{ModId}}_Mushroom_1": {
+          "Id": "{{ModId}}_Mushroom_1",
+          "ItemId": "{{ModId}}_Mushroom_1",
+          "Price": 0
+        },
+        "{{ModId}}_Mushroom_2": {
+          "Id": "{{ModId}}_Mushroom_2",
+          "ItemId": "{{ModId}}_Mushroom_2",
+          "Price": 0
+        },
+        "{{ModId}}_Mushroom_3": {
+          "Id": "{{ModId}}_Mushroom_3",
+          "ItemId": "{{ModId}}_Mushroom_3",
+          "Price": 0
+        },
+        "{{ModId}}_Mushroom_4": {
+          "Id": "{{ModId}}_Mushroom_4",
+          "ItemId": "{{ModId}}_Mushroom_4",
+          "Price": 0
+        },
+        "{{ModId}}_Mushroom_5": {
+          "Id": "{{ModId}}_Mushroom_5",
+          "ItemId": "{{ModId}}_Mushroom_5",
+          "Price": 0
+        },
+        "{{ModId}}_Mushroom_6": {
+          "Id": "{{ModId}}_Mushroom_6",
+          "ItemId": "{{ModId}}_Mushroom_6",
+          "Price": 0
+        },
+        "{{ModId}}_Leprechaun_1": {
+          "Id": "{{ModId}}_Leprechaun_1",
+          "ItemId": "{{ModId}}_Leprechaun_1",
+          "Price": 0
+        },
+        "{{ModId}}_Leprechaun_2": {
+          "Id": "{{ModId}}_Leprechaun_2",
+          "ItemId": "{{ModId}}_Leprechaun_2",
+          "Price": 0
+        },
+        "{{ModId}}_Leprechaun_3": {
+          "Id": "{{ModId}}_Leprechaun_3",
+          "ItemId": "{{ModId}}_Leprechaun_3",
+          "Price": 0
+        },
+        "{{ModId}}_Leprechaun_4": {
+          "Id": "{{ModId}}_Leprechaun_4",
+          "ItemId": "{{ModId}}_Leprechaun_4",
+          "Price": 0
+        },
+        "{{ModId}}_Ghost_1": {
+          "Id": "{{ModId}}_Ghost_1",
+          "ItemId": "{{ModId}}_Ghost_1",
+          "Price": 0
+        },
+        "{{ModId}}_Ghost_2": {
+          "Id": "{{ModId}}_Ghost_2",
+          "ItemId": "{{ModId}}_Ghost_2",
+          "Price": 0
+        },
+        "{{ModId}}_Ghost_3": {
+          "Id": "{{ModId}}_Ghost_3",
+          "ItemId": "{{ModId}}_Ghost_3",
+          "Price": 0
+        },
+        "{{ModId}}_Ghost_4": {
+          "Id": "{{ModId}}_Ghost_4",
+          "ItemId": "{{ModId}}_Ghost_4",
+          "Price": 0
+        },
+        "{{ModId}}_Ghost_5": {
+          "Id": "{{ModId}}_Ghost_5",
+          "ItemId": "{{ModId}}_Ghost_5",
+          "Price": 0
+        },
+        "{{ModId}}_Ghost_6": {
+          "Id": "{{ModId}}_Ghost_6",
+          "ItemId": "{{ModId}}_Ghost_6",
+          "Price": 0
+        },
+        "{{ModId}}_Small_Hedgehog_1": {
+          "Id": "{{ModId}}_Small_Hedgehog_1",
+          "ItemId": "{{ModId}}_Small_Hedgehog_1",
+          "Price": 0
+        },
+        "{{ModId}}_Small_Hedgehog_2": {
+          "Id": "{{ModId}}_Small_Hedgehog_2",
+          "ItemId": "{{ModId}}_Small_Hedgehog_2",
+          "Price": 0
+        },
+        "{{ModId}}_Small_Fox_1": {
+          "Id": "{{ModId}}_Small_Fox_1",
+          "ItemId": "{{ModId}}_Small_Fox_1",
+          "Price": 0
+        },
+        "{{ModId}}_Small_Fox_2": {
+          "Id": "{{ModId}}_Small_Fox_2",
+          "ItemId": "{{ModId}}_Small_Fox_2",
+          "Price": 0
+        },
+        "{{ModId}}_Small_Owl_1": {
+          "Id": "{{ModId}}_Small_Owl_1",
+          "ItemId": "{{ModId}}_Small_Owl_1",
+          "Price": 0
+        },
+        "{{ModId}}_Small_Owl_2": {
+          "Id": "{{ModId}}_Small_Owl_2",
+          "ItemId": "{{ModId}}_Small_Owl_2",
+          "Price": 0
+        },
+        "{{ModId}}_Small_Bear_1": {
+          "Id": "{{ModId}}_Small_Bear_1",
+          "ItemId": "{{ModId}}_Small_Bear_1",
+          "Price": 0
+        },
+        "{{ModId}}_Small_Bear_2": {
+          "Id": "{{ModId}}_Small_Bear_2",
+          "ItemId": "{{ModId}}_Small_Bear_2",
+          "Price": 0
+        },
+        "{{ModId}}_Small_Ghost_1": {
+          "Id": "{{ModId}}_Small_Ghost_1",
+          "ItemId": "{{ModId}}_Small_Ghost_1",
+          "Price": 0
+        },
+        "{{ModId}}_Small_Ghost_2": {
+          "Id": "{{ModId}}_Small_Ghost_2",
+          "ItemId": "{{ModId}}_Small_Ghost_2",
+          "Price": 0
+        },
+        "{{ModId}}_Small_Heart_1": {
+          "Id": "{{ModId}}_Small_Heart_1",
+          "ItemId": "{{ModId}}_Small_Heart_1",
+          "Price": 0
+        },
+        "{{ModId}}_Small_Heart_2": {
+          "Id": "{{ModId}}_Small_Heart_2",
+          "ItemId": "{{ModId}}_Small_Heart_2",
+          "Price": 0
+        },
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Mods\\{{ModId}}\\Paintings, Mods/{{ModId}}/Catalog",
+      "FromFile": "assets/{{TargetWithoutPath}}.png"
+    }
+    ]
+}

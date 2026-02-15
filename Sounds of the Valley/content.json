@@ -1,0 +1,3490 @@
+{
+    "Format": "2.1.0",
+	
+    "ConfigSchema": {
+	"Ambient Sounds": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds"},
+
+	"communityCenter": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+	"CCVariant": {"AllowValues": "Light, Dark",
+	"Description": "",
+	"Default": "Light",
+	"Section": "Ambient Sounds: General"},
+
+	"UpperAmbient": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+	"VolcanoAmbient": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+	
+	"NewRain": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+	"NewSpringDay": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+	
+	"NewNightTime": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+	
+	"NewSpringNight": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+	"NewFallDay": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+	"NewSummerDay": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+	"NewWinterDay": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+	"NewOcean": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+	"NewPool": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+	
+    "NewFrost": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+    "NewBugLevel": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+    "NewJungle": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+    "NewLava": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+    "NewTropicalIslandDay": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Ambient Sounds: General"},
+
+//                                  
+//                                  
+
+	"Effect Sounds": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds"},
+//FootSteps	
+	"GrassSteps": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: FootSteps"},
+
+	"Grass Footsteps": {"AllowValues": "Hard, Soft",
+	"Default": "Hard",
+	"Section": "Effect Sounds: FootSteps"},
+
+	"DirtSteps": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: FootSteps"},
+
+	"SnowSteps": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: FootSteps"},
+
+	"StoneSteps": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: FootSteps"},
+
+	"ThudSteps": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: FootSteps"},
+
+	"WoodSteps": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: FootSteps"},
+//Green	
+    "LeafSound": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Farming"},
+
+    "WateringCan": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Farming"},
+
+    "AxChop": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Farming"},
+
+    "TreeFall": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Farming"},
+
+    "HoeHit": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Farming"},
+
+    "Harvest": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Farming"},
+
+    "GrassCut": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Farming"},
+
+    "GlugWC": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Farming"},
+
+    "Seeding": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Farming"},
+//Inventory
+    "cameraNoiseSnd": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Inventory"},
+
+	"CameraNoise": {"AllowValues": "Noise1, Noise2",
+	"Description": "",
+	"Default": "Noise1",
+	"Section": "Effect Sounds: Inventory"},
+
+    "BigSelectSnd": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "false",
+	"Section": "Effect Sounds: Inventory"},
+
+	"BigSelect": {"AllowValues": "Tili, PDA, Boop",
+	"Description": "",
+	"Default": "Tili",
+	"Section": "Effect Sounds: Inventory"},
+
+    "DiagSound": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "false",
+	"Section": "Effect Sounds: Inventory"},
+
+	"DiagPan": {"AllowValues": "Tulu, Whoop, Pop",
+	"Description": "",
+	"Default": "Whoop",
+	"Section": "Effect Sounds: Inventory"},
+
+    "CancelSnd": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "false",
+	"Section": "Effect Sounds: Inventory"},
+
+	"CancelSound": {"AllowValues": "NoMore, Negative, Bad",
+	"Description": "",
+	"Default": "Negative",
+	"Section": "Effect Sounds: Inventory"},
+
+    "ToolSwap": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "false",
+	"Section": "Effect Sounds: Inventory"},
+
+	"Tool Swap Sound": {"AllowValues": "Bubble, Hard, Soft, Woop",
+	"Description": "",
+	"Default": "Soft",
+	"Section": "Effect Sounds: Inventory"},
+	
+    "BackPack": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "false",
+	"Section": "Effect Sounds: Inventory"},
+
+	"Backpack Swap Sound": {"AllowValues": "Digital, Foop, Woop, Sonar",
+	"Description": "",
+	"Default": "Foop",
+	"Section": "Effect Sounds: Inventory"},
+
+    "MoneyDial": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Inventory"},
+
+    "CoinBack": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Inventory"},
+//Breakable
+    "BarrelBreak": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Breakable"},
+
+    "BoulderBreak": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Breakable"},
+
+    "BreakGlass": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Breakable"},
+
+    "StoneCrack": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Breakable"},
+
+    "WoodWhack": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Breakable"},
+//Monster
+    "GhostSound": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Monster"},
+
+	"Ghost": {"AllowValues": "Futurist, Horror",
+	"Description": "",
+	"Default": "Horror",
+	"Section": "Effect Sounds: Monster"},
+
+    "Bats": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Monster"},
+	
+//Gun
+    "WpnRecharge": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Weapons"},
+	
+	"Weapon Recharge Sound": {"AllowValues": "Bubble, Ding, Ding2",
+	"Description": "",
+	"Default": "Ding",
+	"Section": "Effect Sounds: Weapons"},
+
+    "ClubSM": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Weapons"},
+
+    "ClubSwipe": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Weapons"},
+
+    "DaggerSwipe": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Weapons"},
+
+    "Explosion": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Weapons"},
+
+    "Pickaxe": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Weapons"},
+
+    "SwordSwipe": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Weapons"},
+
+    "Parry": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Weapons"},
+//Ambient
+    "Croak": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Ambient"},
+
+    "Splash": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Ambient"},
+
+    "crickets": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Ambient"},
+
+    "cricketsAmbient": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Ambient"},
+
+    "Meteorite": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Ambient"},
+
+    "Plane": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Ambient"},
+
+    "Thunder": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Ambient"},
+
+    "ItemDropW": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Ambient"},
+
+    "Elevator": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Ambient"},
+
+    "CaveDrip": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Ambient"},
+
+    "SpringBirds": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Ambient"},
+//Open    
+	"DoorClose": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Doors"},
+
+    "DoorCreak": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Doors"},
+
+	"busDoorOpen": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Doors"},
+
+    "busDriveOff": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Doors"},
+
+    "OpenChest": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Doors"},
+//Eat
+    "Eat": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Eat"},
+
+    "Drink": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Eat"},
+//Furnace
+    "Fireball": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Furnace"},
+
+    "Furnace": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Furnace"},
+//Death
+    "DeathSound": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Death"},
+
+	"Death": {"AllowValues": "Drama Queen, Fortnite, Gmod, Roblox, TacoBell",
+	"Description": "",
+	"Default": "TacoBell",
+	"Section": "Effect Sounds: Death"},
+//Fishing
+    "FishBiteSnd": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Fishing"},
+
+	"FishBiteSound": {"AllowValues": "Yeah, Yeah2",
+	"Description": "",
+	"Default": "Yeah",
+	"Section": "Effect Sounds: Fishing"},
+
+    "FishEscapeSnd": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Fishing"},
+
+	"FishEscapeSound": {"AllowValues": "Badd, Nono, Argh, Aaaah",
+	"Description": "",
+	"Default": "Nono",
+	"Section": "Effect Sounds: Fishing"},
+
+    "FishingReel": {"AllowValues": "true, false",
+	"Description": "",
+	"Default": "true",
+	"Section": "Effect Sounds: Fishing"},
+    },
+ 
+    "Changes": [
+	
+//ExperimentalCueSwap
+        {
+          "Action": "EditData",
+          "Target": "Data/AudioChanges",
+          "Entries": {
+            "JP98.NewSoundEffects_StumpBreak": {
+              "Id": "treethud.StumpFall",
+              "Category": "Sound",
+              "FilePaths": [], //Sound completely replaced
+              "Looped": false,
+            }
+          },
+          "When": {"HasMod": "mushymato.CueSwap", "Effect Sounds": "true", "Treefall": "true"} //Only when CueSwap Installed
+        },
+	
+//Ambient Sounds
+        {
+          "Action": "EditData",
+          "Target": "Data/AudioChanges",
+          "Entries": {
+            "JP98.NewSoundEffects_rain_outdoors": {
+              "Id": "rain",
+              "Category": "Ambient",
+              "FilePaths": ["{{AbsoluteFilePath: sounds/Ambient Sounds/rain1.ogg}}"],
+			  "StreamedVorbis": true,
+              "Looped": true,
+            }
+          },
+          "When": { "Ambient Sounds": "true", "NewRain": "true"}
+        },
+//Ambience
+	    {
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_SpringDayAmbient": {
+                    "ID": "spring_day_ambient",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/spring_day_ambient.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewSpringDay": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_nightTime": {
+                    "ID": "nightTime",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/nightTime.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewNightTime": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_springnightambient": {
+                    "ID": "spring_night_ambient",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/spring_night_ambient.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewSpringNight": "true"}
+		},
+        //
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_falldayambient": {
+                    "ID": "fall_day_ambient",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/fall_day_ambient.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewFallDay": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_summerdayambient": {
+                    "ID": "summer_day_ambient",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/summer_day_ambient.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewSummerDay": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_winterdayambient": {
+                    "ID": "winter_day_ambient",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/winter_day_ambient.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewWinterDay": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_ocean": {
+                    "ID": "ocean",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/ocean.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewOcean": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_poolambient": {
+                    "ID": "pool_ambient",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/pool_ambient.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewPool": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_FrostAmbient": {
+                    "ID": "Frost_Ambient",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/Frost_Ambient.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewFrost": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_bugLevelLoop": {
+                    "ID": "bugLevelLoop",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/bugLevelLoop.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewBugLevel": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_jungleambience": {
+                    "ID": "jungle_ambience",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/jungle_ambience.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewJungle": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_LavaAmbient": {
+                    "ID": "Lava_Ambient",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/Lava_Ambient.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewLava": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_tropicalislanddayambient": {
+                    "ID": "tropical_island_day_ambient",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/tropical_island_day_ambient.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "NewTropicalIslandDay": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_communityCenter1": {
+                    "ID": "communityCenter",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/communityCenter.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "communityCenter": "true", "CCVariant": "Light"}
+		},
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_communityCenter2": {
+                    "ID": "communityCenter",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/communityCenter1.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "communityCenter": "true", "CCVariant": "Dark"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_UpperAmbient": {
+                    "ID": "Upper_Ambient",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/Upper_Ambient.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "UpperAmbient": "true"}
+		},
+		//
+		{
+			"Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries":
+            {
+                "JP98.NewSoundEffects_VolcanoAmbient": {
+                    "ID": "Volcano_Ambient",
+                    "Category": "Ambient",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: sounds/Ambient Sounds/Volcano_Ambient.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+			},
+			"When": { "Ambient Sounds": "true", "VolcanoAmbient": "true"}
+		},
+//             		
+//Sound Effects     
+//FootSteps         
+        {
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+                "grassyStep": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Footsteps",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Steps/Grass.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.8,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Grass Footsteps": "Hard", "Effect Sounds": "true", "GrassSteps": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+                "grassyStep": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Footsteps",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Steps/GrassA.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.7,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Grass Footsteps": "Soft", "Effect Sounds": "true", "GrassSteps": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		        "sandyStep": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Footsteps",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Steps/Dirty.wav}}",
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.8,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "DirtSteps": "true"}
+		},
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"snowyStep": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Footsteps",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Steps/Snow.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.8,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "SnowSteps": "true"}
+		},
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"stoneStep": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Footsteps",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Steps/Stone.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.8,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "StoneSteps": "true"}
+		},
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"thudStep": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Footsteps",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Steps/Thud.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.9,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "ThudSteps": "true"}
+		},
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"woodyStep": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Footsteps",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Steps/Wood1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.9,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "WoodSteps": "true"}
+		},
+		
+//Effects                         
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"leafrustle": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Green/Bush.wav}}",
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.1,
+                "minVolume": 0.75,
+                "maxVolume": 0.85,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 3,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "LeafSound": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"moneyDial": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Coins.wav}}",
+                    ],
+                "minPitch": -0.15,
+                "maxPitch": 0.2,
+                "minVolume": 0.95,
+                "maxVolume": 0.95,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 5
+                }
+			},
+			"When": {"Effect Sounds": "true", "MoneyDial": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"purchase": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Coinsback.wav}}",
+                    ],
+                "minPitch": -0.1,
+                "maxPitch": 0.2,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 5
+                }
+			},
+			"When": {"Effect Sounds": "true", "CoinBack": "true"}
+		},
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"purchaseClick": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/purchaseClick.wav}}",
+                    ],
+                "minPitch": -0.1,
+                "maxPitch": 0.2,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 5
+                }
+			},
+			"When": {"Effect Sounds": "true", "CoinBack": "true"}
+		},
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"purchaseRepeat": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/purchaseRepeat.wav}}",
+                    ],
+                "minPitch": -0.1,
+                "maxPitch": 0.2,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 5
+                }
+			},
+			"When": {"Effect Sounds": "true", "CoinBack": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"wateringCan": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Green/Watering.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Green/Watering1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.5,
+                "maxVolume": 0.6,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "WateringCan": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"axchop": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Green/Chop.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Green/Chop1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.8,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "AxChop": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"barrelBreak": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Breakable/BarrelBreak.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.8,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "BarrelBreak": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"batScreech": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Monster/BatScreech.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.15,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 5,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Bats": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"boulderBreak": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Breakable/BoulderB1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.15,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "BoulderBreak": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"breakingGlass": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Breakable/BreakingG.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Breakable/BreakingG1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.8,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "BreakGlass": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"clubSmash": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Gun/ClubSm1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.15,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "ClubSM": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"clubswipe": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Gun/ClubSw.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.15,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "ClubSwipe": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"croak": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/Croak.wav}}"
+                    ],
+                "minPitch": 0.0,
+                "maxPitch": 0.05,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Croak": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"crickets": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/crickets.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.9,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "crickets": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"cricketsAmbient": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/cricketsAmbient.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "cricketsAmbient": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"Meteorite": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/Meteorite.wav}}"
+                    ],
+                "minPitch": -0.01,
+                "maxPitch": 0.01,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Meteorite": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"parachute": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/parachute.wav}}"
+                    ],
+                "minPitch": -0.1,
+                "maxPitch": 0.1,
+                "minVolume": 0.8,
+                "maxVolume": 0.85,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Plane": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"planeflyby": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/planeflyby.wav}}"
+                    ],
+                "minPitch": -0.01,
+                "maxPitch": 0.01,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Plane": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"daggerswipe": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Gun/Dagger1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.15,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 5,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "DaggerSwipe": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"doorClose": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Open/DoorC.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.15,
+                "minVolume": 0.8,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "DoorClose": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"busDriveOff": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Open/busDriveOff.wav}}"
+                    ],
+                "minPitch": -0.01,
+                "maxPitch": 0.01,
+                "minVolume": 0.9,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "busDriveOff": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"busDoorOpen": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Open/busDoorOpen.wav}}"
+                    ],
+                "minPitch": -0.01,
+                "maxPitch": 0.01,
+                "minVolume": 0.9,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "busDoorOpen": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"doorCreak": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Open/DoorCreakO.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.15,
+                "minVolume": 0.8,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "DoorCreak": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"doorCreakReverse": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Open/DoorCreak.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.15,
+                "minVolume": 0.8,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "DoorCreak": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"doorOpen": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Open/DoorO.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.15,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "DoorClose": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"eat": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Eat/Eat.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.15,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Eat": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"gulp": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Eat/Drinking.wav}}"
+                    ],
+                "minPitch": 0.0,
+                "maxPitch": 0.15,
+                "minVolume": 0.65,
+                "maxVolume": 0.65,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": "FailToPlay"
+                }
+			},
+			"When": {"Effect Sounds": "true", "Drink": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"explosion": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Gun/Explosion.wav}}"
+                    ],
+                "minPitch": -0.1,
+                "maxPitch": 0.1,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Explosion": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"fuse": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Gun/Fuse.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Explosion": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"fireball": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Furnace/Fireball.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 5,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Fireball": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"furnace": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Furnace/Furnace.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.1,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Furnace": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"hammer": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Gun/Hammer.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Gun/Hammer1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.8,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Pickaxe": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"openChest": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Open/OpenC.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.1,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "OpenChest": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"pullItemFromWater": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/Splash.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/Splash1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.15,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Splash": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"stoneCrack": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Breakable/Rock.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Breakable/Rock1.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Breakable/Rock2.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.75,
+                "maxVolume": 0.85,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "StoneCrack": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"swordswipe": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Gun/Sword.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.8,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "SwordSwipe": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"parry": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Gun/Charge.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Gun/Charge1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.1,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Parry": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+			    "clank": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Gun/Charge.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Gun/Charge1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.1,
+                "minVolume": 0.75,
+                "maxVolume": 0.85,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Parry": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"treethud": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Green/TreeFall.wav}}"
+                    ],
+                "minPitch": -0.1,
+                "maxPitch": 0.1,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 3,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Treefall": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"treecrack": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Green/FallTree.wav}}"
+                    ],
+                "minPitch": -0.1,
+                "maxPitch": 0.1,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 3,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "TreeFall": "true"}
+		},
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"treethud.StumpFall": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Green/StumpBreak.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.55,
+                "maxVolume": 0.65,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 3,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"HasMod": "mushymato.CueSwap", "Effect Sounds": "true", "Treefall": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"woodWhack": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Breakable/WoodWhack.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.15,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 5,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "BarrelBreak": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"thunder": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/Thunder.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/Thunder1.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/Thunder2.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Thunder": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"thunder_small": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/SmallThunder.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/SmallThunder1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "Thunder": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+				"hoeHit": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Green/HoeHit.wav}}",
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.75,
+                "maxVolume": 0.85,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+			},
+			"When": {"Effect Sounds": "true", "HoeHit": "true"}
+		},
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+			    "harvest": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Green/Harvest.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Green/Harvest1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 0.75,
+                "maxVolume": 0.85,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Effect Sounds": "true", "Harvest": "true"}
+        },
+		//Ghost
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+                "ghost": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Monster/Ghost.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Monster/Ghost1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.1,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 3,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Ghost": "Horror", "Effect Sounds": "true", "GhostSound": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+                "ghost": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Monster/GhostAlt.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.0,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 3,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Ghost": "Futurist", "Effect Sounds": "true", "GhostSound": "true"}
+        },
+		//Death
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+                "death": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Death/DeathBell.wav}}"
+                    ],
+                "minPitch": 0.0,
+                "maxPitch": 0.0,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Death": "TacoBell", "Effect Sounds": "true", "DeathSound": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+                "death": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Death/DeathFN.wav}}"
+                    ],
+                "minPitch": 0.0,
+                "maxPitch": 0.0,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Death": "Fortnite", "Effect Sounds": "true", "DeathSound": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+                "death": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Death/DeathGmod.wav}}"
+                    ],
+                "minPitch": 0.0,
+                "maxPitch": 0.0,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Death": "Gmod", "Effect Sounds": "true", "DeathSound": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+                "death": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Death/DeathOof.wav}}"
+                    ],
+                "minPitch": 0.0,
+                "maxPitch": 0.0,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Death": "Roblox", "Effect Sounds": "true", "DeathSound": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+                "death": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Death/DeathDQ.wav}}"
+                    ],
+                "minPitch": 0.0,
+                "maxPitch": 0.0,
+                "minVolume": 0.9,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Death": "Drama Queen", "Effect Sounds": "true", "DeathSound": "true"}
+        },
+		//
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+                "cut": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Green/GrassCut.wav}}",
+                    "{{InternalAssetKey: sounds/Sound Effects/Green/cut.wav}}",
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 5,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Effect Sounds": "true", "GrassCut": "true"}
+		},
+		//Tools
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {	
+		        "toolSwap": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Swipe.wav}}",
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Tool Swap Sound": "Soft", "Effect Sounds": "true", "ToolSwap": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {	
+		        "toolSwap": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Swipe1.wav}}",
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.85,
+                "maxVolume": 0.85,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Tool Swap Sound": "Hard", "Effect Sounds": "true", "ToolSwap": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {	
+		        "toolSwap": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Swipe2.wav}}",
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Tool Swap Sound": "Woop", "Effect Sounds": "true", "ToolSwap": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {	
+		        "toolSwap": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Swipe3.wav}}",
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 10,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Tool Swap Sound": "Bubble","Effect Sounds": "true", "ToolSwap": "true"}
+        },
+		//WeaponRecharge
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "objectiveComplete": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Gun/Recharge.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Weapon Recharge Sound": "Ding", "Effect Sounds": "true", "WpnRecharge": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "objectiveComplete": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Gun/Recharge1.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.65,
+                "maxVolume": 0.65,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Weapon Recharge Sound": "Bubble", "Effect Sounds": "true", "WpnRecharge": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "objectiveComplete": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Gun/Recharge2.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 1,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Weapon Recharge Sound": "Ding2", "Effect Sounds": "true", "WpnRecharge": "true"}
+        },
+		//Backpack
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "shwip": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Swap.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.9,
+                "maxVolume": 0.9,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Backpack Swap Sound": "Foop", "Effect Sounds": "true", "BackPack": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "shwip": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Swap1.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Backpack Swap Sound": "Digital", "Effect Sounds": "true", "BackPack": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "shwip": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Swap2.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Backpack Swap Sound": "Woop","Effect Sounds": "true", "BackPack": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "shwip": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Swap3.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Backpack Swap Sound": "Sonar", "Effect Sounds": "true", "BackPack": "true"}
+        },
+		//ItemInWater
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "dropItemInWater": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/DropItemW.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/DropItemW2.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.7,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Effect Sounds": "true", "ItemDropW": "true"}
+        },
+		//Planting
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "dirtyHit": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Green/Seeds.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Green/Seeds2.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Effect Sounds": "true", "Seeding": "true"}
+        },
+		//Dialog
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "breathin": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Breathin.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"DiagPan": "Tulu", "Effect Sounds": "true", "DiagSound": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "breathin": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Breathin1.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"DiagPan": "Whoop", "Effect Sounds": "true", "DiagSound": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "breathin": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Breathin2.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"DiagPan": "Pop", "Effect Sounds": "true", "DiagSound": "true"}
+        },
+		//BreathOut
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "breathout": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Breathout.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"DiagPan": "Tulu", "Effect Sounds": "true", "DiagSound": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "breathout": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Breathout1.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"DiagPan": "Whoop", "Effect Sounds": "true", "DiagSound": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "breathout": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Breathout2.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"DiagPan": "Pop", "Effect Sounds": "true", "DiagSound": "true"}
+        },
+		//Cancel
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "cancel": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Cancel.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.75,
+                "maxVolume": 0.85,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"CancelSound": "NoMore", "Effect Sounds": "true", "CancelSnd": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "cancel": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Cancel2.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"CancelSound": "Negative", "Effect Sounds": "true", "CancelSnd": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "cancel": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/Cancel3.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"CancelSound": "Bad", "Effect Sounds": "true", "CancelSnd": "true"}
+        },
+		//Crystal
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "crystal": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/Elevator.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Effect Sounds": "true", "Elevator": "true"}
+        },
+		//CaveDrip
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "cavedrip": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/CaveDrip.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/CaveDrip2.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/CaveDrip3.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/CaveDrip4.wav}}"
+                    ],
+                "minPitch": -0.03,
+                "maxPitch": 0.03,
+                "minVolume": 0.75,
+                "maxVolume": 0.85,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Effect Sounds": "true", "CaveDrip": "true"}
+        },
+		//FishingReel
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "fastReel": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Fish/Reel.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Effect Sounds": "true", "FishingReel": "true"}
+        },
+		//FishBite
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "fishBite": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Fish/FishBite.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"FishBiteSound": "Yeah", "Effect Sounds": "true", "FishBiteSnd": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "fishBite": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Fish/FishBite2.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"FishBiteSound": "Yeah2", "Effect Sounds": "true", "FishBiteSnd": "true"}
+        },
+		//FishEscape
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "fishEscape": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Fish/FishEscape.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"FishEscapeSound": "Badd", "Effect Sounds": "true", "FishEscapeSnd": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "fishEscape": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Fish/FishEscape2.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"FishEscapeSound": "Nono", "Effect Sounds": "true", "FishEscapeSnd": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "fishEscape": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Fish/FishEscape31.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Fish/FishEscape32.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Fish/FishEscape33.wav}}",
+                    ],
+                "minPitch": 0.0,
+                "maxPitch": 0.0,
+                "minVolume": 0.65,
+                "maxVolume": 0.75,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"FishEscapeSound": "Argh", "Effect Sounds": "true", "FishEscapeSnd": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "fishEscape": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Fish/FishEscape4.wav}}"
+                    ],
+                "minPitch": 0.0,
+                "maxPitch": 0.0,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"FishEscapeSound": "Aaaah", "Effect Sounds": "true", "FishEscapeSnd": "true"}
+        },
+		//GlugWaterCan
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "glug": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Green/CanRefill.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Green/CanRefill2.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Green/CanRefill3.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Effect Sounds": "true", "GlugWC": "true"}
+        },
+		//Birds
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "SpringBirds": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Ambient/Birds1.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/Birds2.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/Birds3.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/Birds4.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/Birds5.wav}}",
+					"{{InternalAssetKey: sounds/Sound Effects/Ambient/Birds6.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"Effect Sounds": "true", "SpringBirds": "true"}
+        },
+		//CameraNoise
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "cameraNoise": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/cameraNoise.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"cameraNoise": "Noise1", "Effect Sounds": "true", "cameraNoiseSnd": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "cameraNoise": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/cameraNoise1.wav}}"
+                    ],
+                "minPitch": -0.05,
+                "maxPitch": 0.05,
+                "minVolume": 1.0,
+                "maxVolume": 1.0,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"cameraNoise": "Noise2", "Effect Sounds": "true", "cameraNoiseSnd": "true"}
+        },
+		//BigSelect
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "bigSelect": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/BigSelect.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"BigSelect": "Tili", "Effect Sounds": "true", "BigSelectSnd": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "bigSelect": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/BigSelect2.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"BigSelect": "PDA", "Effect Sounds": "true", "BigSelectSnd": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "bigSelect": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/BigSelect3.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"BigSelect": "Boop", "Effect Sounds": "true", "BigSelectSnd": "true"}
+        },
+		//BigDeSelect
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "bigDeSelect": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/BigDeSelect.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"BigSelect": "Tili", "Effect Sounds": "true", "BigSelectSnd": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "bigDeSelect": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/BigDeSelect2.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"BigSelect": "PDA", "Effect Sounds": "true", "BigSelectSnd": "true"}
+        },
+		{
+            "Action": "EditData",
+            "Target": "aedenthorn.SoundTweaker/dictionary",
+            "Entries": {
+		    "bigDeSelect": {
+                    "sounds": [
+            {
+                "variationType": "RandomNoImmediateRepeats",
+                "category": "Sound",
+                "filePaths": [
+                    "{{InternalAssetKey: sounds/Sound Effects/Inventory/BigDeSelect3.wav}}"
+                    ],
+                "minPitch": -0.02,
+                "maxPitch": 0.02,
+                "minVolume": 0.8,
+                "maxVolume": 0.8,
+                "filterMode": "HighPass",
+            }
+                ],
+	            "maxInstances": 2,
+                "limitBehavior": 2
+                }
+            },
+			"When": {"BigSelect": "Boop", "Effect Sounds": "true", "BigSelectSnd": "true"}
+        },
+    ]
+}

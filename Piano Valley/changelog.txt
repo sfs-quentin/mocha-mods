@@ -1,0 +1,5 @@
+added 3 new songs (load game, calico desert, in the deep woods)
+
+tweaked pal_stardropsaloon.ogg for audio quality
+
+tweaked 3head_pleasant.ogg for audio quality

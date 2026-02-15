@@ -1,0 +1,11 @@
+{
+   "Name": "Fall Paintings",
+   "Author": "Zexu2K",
+   "Version": "1.1",
+   "Description": "Adds Fall Paintings to the game",
+   "UniqueID": "Zexu2K.Fall_Paintings_by_Zexu2K_CP",
+   "UpdateKeys": [ "Nexus:34352" ],
+     "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   },
+}

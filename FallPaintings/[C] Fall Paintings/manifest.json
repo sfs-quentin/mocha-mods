@@ -1,0 +1,16 @@
+{
+   "Name": "Fall Paintings",
+   "Author": "Zexu2K",
+   "Version": "1.1",
+   "Description": "Adds Catalog for Fall Paintings",
+   "UniqueID": "Zexu2K.Fall_Paintings_by_Zexu2K_C",
+    "UpdateKeys": ["Nexus:34352"],
+    "Dependencies": [
+        {
+            "UniqueID": "Zexu2K.Fall_Paintings_by_Zexu2K_CP",
+            "IsRequired": true
+        }
+    ], 
+    "EntryDll": "Fall Paintings.dll",
+    "MinimumApiVersion": "3.0.0"
+}

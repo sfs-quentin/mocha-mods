@@ -1,0 +1,21 @@
+{
+  "Name": "(CP) Sounds of the Valley",
+  "Author": "Juanpa98ar",
+  "Version": "3.1.0",
+  "Description": "Replaces the game sounds with new ones.",
+  "UniqueID": "Juanpa98ar.SotV",
+  "UpdateKeys": [ "Nexus:14881" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+    },
+  "Dependencies": [
+    {
+      "UniqueID": "aedenthorn.SoundTweaker",
+      "IsRequired": false
+    },
+	{
+      "UniqueID": "mushymato.CueSwap",
+      "IsRequired": false
+    },
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  /*
+   | This file is automatically updated by ModManifestBuilder
+   | when the project is compiled.
+   | 
+   | Changes made to this file may be overwritten.
+   | 
+   */
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "UniqueID": "mushymato.CueSwap",
+  "Name": "CueSwap",
+  "Author": "mushymato",
+  "Version": "1.1.0",
+  "Description": "Swap sound cues in certain context.",
+  "MinimumApiVersion": "4.2.1",
+  "MinimumGameVersion": "1.6.15",
+  "EntryDll": "CueSwap.dll",
+  "UpdateKeys": [
+    "Nexus:29445"
+  ]
+}

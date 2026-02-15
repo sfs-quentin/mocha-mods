@@ -1,0 +1,11 @@
+{
+    "Name": "Brown Wood Craftables",
+    "Author": "donquani",
+    "Version": "1.0.2",
+    "Description": "Craftables Recolor",
+    "UniqueID": "donquani.BrownWoodCraftables",
+    "UpdateKeys": [ "Nexus:15421" ],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

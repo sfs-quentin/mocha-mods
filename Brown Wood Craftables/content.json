@@ -1,0 +1,151 @@
+{
+   "Format": "1.28.4",
+   "Changes": [ {
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/beehouse.png",
+         "ToArea": { "X": 32, "Y": 32, "Width": 32, "Height": 32 },
+         "Enabled": true
+		},
+        {
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/keg.png",
+         "ToArea": { "X": 64, "Y": 32, "Width": 16, "Height": 32 },
+         "Enabled": true
+		},
+        {
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/preservesjar.png",
+         "ToArea": { "X": 112, "Y": 32, "Width": 16, "Height": 32 },
+         "Enabled": true
+		},
+        {
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/cheesepress.png",
+         "ToArea": { "X": 0, "Y": 64, "Width": 16, "Height": 32 },
+         "Enabled": true
+		},
+        {
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/loom.png",
+         "ToArea": { "X": 16, "Y": 64, "Width": 32, "Height": 32 },
+         "Enabled": true
+		},
+        {
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/oilmaker.png",
+         "ToArea": { "X": 48, "Y": 64, "Width": 16, "Height": 32 },
+         "Enabled": true
+		},
+        {
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/recyclingmachine.png",
+         "ToArea": { "X": 64, "Y": 64, "Width": 16, "Height": 32 },
+         "Enabled": true
+		},
+        {
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/mayonnaisemachine.png",
+         "ToArea": { "X": 0, "Y": 96, "Width": 16, "Height": 32 },
+         "Enabled": true
+		},
+        {
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/seedmaker.png",
+         "ToArea": { "X": 16, "Y": 96, "Width": 16, "Height": 32 },
+         "Enabled": true
+		},
+	    {
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/stonesign.png",
+         "ToArea": { "X": 96, "Y": 128, "Width": 16, "Height": 32 },
+         "Enabled": true
+		},
+        {
+          "Action": "EditImage",
+          "Target": "TileSheets/Craftables",
+          "FromFile": "assets/craftables/Tapper.png",
+		  "ToArea": { "X": 19, "Y": 420, "Width": 11, "Height": 25 },
+		  "Enabled": true
+       },
+       {
+          "Action": "EditImage",
+          "Target": "TileSheets/Craftables",
+          "FromFile": "assets/craftables/Chest.png",
+		  "ToArea": { "X": 32, "Y": 513, "Width": 96, "Height": 31 },
+		  "Enabled": true
+        },
+		{
+	      "Action": "EditImage",
+          "Target": "TileSheets/Craftables",
+          "FromFile": "assets/craftables/gardenpot.png",
+		  "ToArea": { "X": 96, "Y": 224, "Width": 32, "Height": 32 },
+		  "Enabled": true
+		},
+		{
+		  "Action": "EditImage",
+          "Target": "TileSheets/Craftables",
+          "FromFile": "assets/craftables/crystalarium.png",
+		  "ToArea": { "X": 80, "Y": 64, "Width": 16, "Height": 32 },
+		  "Enabled": true
+		},
+		{
+		  "Action": "EditImage",
+          "Target": "TileSheets/Craftables",
+          "FromFile": "assets/craftables/wormbin.png",
+		  "ToArea": { "X": 32, "Y": 608, "Width": 16, "Height": 32 },
+		  "Enabled": true
+		},
+		{
+		  "Action": "EditImage",
+          "Target": "TileSheets/Craftables",
+          "FromFile": "assets/craftables/woodchipper.png",
+		  "ToArea": { "X": 48, "Y": 832, "Width": 48, "Height": 32 },
+		  "Enabled": true
+		},
+		{
+		  "Action": "EditImage",
+          "Target": "TileSheets/Craftables",
+          "FromFile": "assets/craftables/workbench.png",
+		  "ToArea": { "X": 0, "Y": 832, "Width": 16, "Height": 32 },
+		  "Enabled": true
+		},
+        {
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/lightningrod.png",
+         "ToArea": { "X": 16, "Y": 32, "Width": 16, "Height": 32 },
+         "Enabled": true
+		},
+	    {
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/furnace.png",
+         "ToArea": { "X": 80, "Y": 32, "Width": 32, "Height": 32 },
+         "Enabled": true
+		},
+		{
+         "Action": "EditImage",
+         "Target": "TileSheets/craftables",
+         "FromFile": "assets/craftables/woodsign.png",
+         "ToArea": { "X": 80, "Y": 128, "Width": 16, "Height": 32 },
+         "Enabled": true
+		},
+		       {
+          "Action": "EditImage",
+          "Target": "Maps/springobjects",
+          "FromFile": "assets/craftables/LoomTop.png",
+		  "ToArea": { "X": 48, "Y": 288, "Width": 16, "Height": 16 },
+		  "Enabled": true
+       },
+   ]
+}
